@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "image": "https://vignette.wikia.nocookie.net/youtubepoop/images/f/f7/5Pikachu.png/revision/latest?cb=20141108062013"
+  },
+  {
+    "id": 2,
+    "name": "Squirtle",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwWBebTROzL1u-GgYrxVITy6MzPirDwEWcR63ReGkq87ecOZGxQ"
+  },
+  {
+    "id": 3,
+    "name": "Charmander",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM6D0pMtkqp8b1tt5I2HHKpxFsa7JSi_6-7aid0rkfw779NsCA"
+  },
+  {
+    "id": 4,
+    "name": "Bulbasaur",
+    "image": "https://vignette.wikia.nocookie.net/legendsofthemultiuniverse/images/4/4c/001_bulbasaur_by_pklucario-d5z1g10.png/revision/latest?cb=20170701131534"
+  },
+  {
+    "id": 5,
+    "name": "Togepi",
+    "image": "http://static.pokemonpets.com/images/monsters-images-300-300/175-Togepi.png"
+  },
+  {
+    "id": 6,
+    "name": "Eevee",
+    "image": "http://static.pokemonpets.com/images/monsters-images-300-300/133-Eevee.png"
+  },
+  {
+    "id": 7,
+    "name": "Mew",
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/b/b8/Poke_mew.png/revision/latest?cb=20170217060051"
+  },
+  {
+    "id": 8,
+    "name": "Teddiursa",
+    "image": "https://vignette.wikia.nocookie.net/pokemon/images/7/71/216Teddiursa_OS_anime_2.png/revision/latest?cb=20150107092641"
+  },
+  {
+    "id": 9,
+    "name": "Igglybuff",
+    "image": "https://seeklogo.com/images/I/igglybuff-pokemon-logo-1F13A81DD1-seeklogo.com.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Cleffa",
+    "image": "http://static.pokemonpets.com/images/monsters-images-300-300/2173-Shiny-Cleffa.png"
+  },
+  {
+    "id": 11,
+    "name": "Pichu",
+    "image": "https://vignette.wikia.nocookie.net/p__/images/d/df/Pichu_man.jpg/revision/latest?cb=20170205235904&path-prefix=protagonist"
+  },
+  {
+    "id": 12,
+    "name": "Azurill",
+    "image": "https://vignette.wikia.nocookie.net/pokemon/images/8/85/298Azurill_AG_anime_2.png/revision/latest?cb=20150720062059"
+  },
+  {
+    "id": 13,
+    "name": "Magby",
+    "image": "https://vignette.wikia.nocookie.net/sonicpokemon/images/9/94/Magby.jpg/revision/latest?cb=20130627043333"
+  },
+  {
+    "id": 14,
+    "name": "Elekid",
+    "image": "https://vignette.wikia.nocookie.net/sonicpokemon/images/8/84/Elekid-1.png/revision/latest?cb=20130109053518"
+  },
+  {
+    "id": 15,
+    "name": "Tyrogue",
+    "image": "https://vignette.wikia.nocookie.net/pokemon/images/f/fa/236Tyrogue_OS_anime_2.png/revision/latest?cb=20150107095513"
+  },
+  {
+    "id": 16,
+    "name": "Mantyke",
+    "image": "http://static.pokemonpets.com/images/monsters-images-300-300/458-Mantyke.png"
+  },
+  {
+    "id": 17,
+    "name": "Budew",
+    "image": "https://cdn.bulbagarden.net/upload/thumb/d/d3/406Budew.png/250px-406Budew.png"
+  },
+  {
+    "id": 18,
+    "name": "Seedot",
+    "image": "http://static.pokemonpets.com/images/monsters-images-300-300/273-Seedot.png"
+  },
+  {
+    "id": 19,
+    "name": "Munchlax",
+    "image": "https://vignette.wikia.nocookie.net/sonicpokemon/images/8/8e/Munchlax.png/revision/latest?cb=20120801033923"
+  },
+  {
+    "id": 20,
+    "name": "Riolu",
+    "image": "https://vignette.wikia.nocookie.net/the-chronicles-of-equestira-and-the-isle-of-berk/images/e/eb/447Riolu_DP_anime.png/revision/latest?cb=20160424031035"
+  }
+]
