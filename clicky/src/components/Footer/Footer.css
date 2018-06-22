@@ -1,0 +1,22 @@
+.footer {
+    background: #ff1c1c;
+    height: 100px;
+    position: relative;
+    color: #fff;
+    overflow: auto;
+    width: 100%;
+    height: 70px;
+    font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+}
+
+.bottom {
+    height: 20px;
+}
+
+.footer img {
+    height: 70px;
+    width: 70px;
+    border: none;
+    box-shadow: none;
+    cursor: auto;
+}

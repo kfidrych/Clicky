@@ -2,6 +2,9 @@ import React, { Component } from "react";
 import PokemonCard from "./components/PokemonCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
+import NavBar from "./components/NavBar";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 import pokemons from "./pokemons.json";
 import "./App.css";
 
@@ -22,6 +25,8 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
+        <NavBar />
+        <Header />
         <Title>Pokemon Clicky Memory Game!</Title>
         <div class="container">
           {this.state.pokemons.map(pokemon => (
@@ -36,6 +41,7 @@ class App extends Component {
             </div>
           ))}
         </div>
+        <Footer />
       </Wrapper>
     );
   }
