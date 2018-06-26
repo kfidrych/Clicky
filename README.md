@@ -11,4 +11,4 @@ The gameplay is fairly simple:
 * The Player's Score is updated with each unique Pokemon clicked and caught.
 * Refresh the game using the Clicky Game button on the top of the page, or refresh your browser. Refreshing your browser will also reset your highscore however.
 
-####Designed and Maintained by Kristian Fidrych @ [GitHub] (https://github.com/kfidrych) | kristianfidrych@gmail.com
+####Designed and Maintained by Kristian Fidrych @ [GitHub](https://github.com/kfidrych) | kristianfidrych@gmail.com
