@@ -2,13 +2,13 @@ import React from "react";
 import "./NavBar.css";
 
 const NavBar = props => (
-    <nav class="navbar">
+    <nav className="navbar">
         <ul>
-            <li class="brand">
+            <li className="brand">
                 <a href="/">Clicky Game</a>
             </li>
-            <li class="">You guessed incorrectly!</li>
-            <li>Score: 0 | Top Score: 12</li>
+            <li className="">{props.guess}</li>
+            <li>Score: {props.score} | Top Score: {props.highscore}</li>
         </ul>
     </nav>
 );
