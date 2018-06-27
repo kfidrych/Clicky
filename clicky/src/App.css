@@ -36,3 +36,22 @@ img {
 .imgDiv:hover {
   transform: scale(1.1);
 }
+
+@media only screen and (max-width: 400px) {
+  .container {
+      width: 100%;
+      padding-bottom: 10px;
+      min-height: 45%;
+  }
+
+  img {
+    height: 50px;
+    width: 50px;
+    border: 2px solid lightgrey;
+    border-radius: 1px;
+  }
+
+  .title {
+    margin-bottom: 15px;
+  }
+}

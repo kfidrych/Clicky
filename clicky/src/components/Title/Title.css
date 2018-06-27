@@ -6,3 +6,10 @@
   color: #2A77AE;
   margin-bottom: 50px;
 }
+
+@media only screen and (max-width: 400px) {
+  .title {
+    font-size: 2.25rem;
+    margin-bottom: 0px;
+  }
+}
