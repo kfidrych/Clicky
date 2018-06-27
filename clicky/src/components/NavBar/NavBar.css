@@ -33,7 +33,7 @@ ul, menu, dir {
     height: 70px;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (min-width: 360px) and (max-width: 767px) {
     .navbar {
         height: 50px;
     }
