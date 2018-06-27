@@ -22,7 +22,7 @@
     cursor: auto;
 }
 
-@media only screen and (min-width: 360px) and (max-width: 767px) {
+@media only screen and (min-width: 360px) {
     .footer img {
         height: 50px;
     }
